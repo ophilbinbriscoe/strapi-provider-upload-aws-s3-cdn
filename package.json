@@ -1,7 +1,7 @@
 {
   "name": "strapi-provider-upload-aws-s3-cloudfront",
   "version": "3.8.1",
-  "description": "AWS S3 provider for strapi upload with cdn (cloudfront)",
+  "description": "AWS S3 + CDN upload provider for Strapi v4 with AWS IAM support.",
   "directories": {
     "lib": "./lib"
   },
